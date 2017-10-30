@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+	<book id="1"><title>Jane Air</title><author>Charlotte Bronte</author><pages>287</pages></book>
+	<book id="2"><title>Harry Potter and The prisoner of Azkaban</title><author>JK Rowling</author><pages>318</pages></book>
+	<book id="2"><title>Tim</title><author>Colleen McCullough</author><pages>276</pages></book>
+</books>
