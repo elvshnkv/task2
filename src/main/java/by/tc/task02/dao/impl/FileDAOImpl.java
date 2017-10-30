@@ -9,7 +9,6 @@ import by.tc.task02.view.FrameCreator;
 
 public class FileDAOImpl implements FileDAO {
 
-	public static final String PATH = "task2.xml";
 	public static final int TAGCHARACTER = 1;
 	public static final int ENDTAGSYMBOLS = 2;
 	public static final int ENDOFFILE = -1;
